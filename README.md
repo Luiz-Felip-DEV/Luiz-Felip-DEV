@@ -1,13 +1,13 @@
 <div align="center">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=90B302center=true&vCenter=true&width=435&lines=Hi!+My+name+is+João!;Welcome." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=90B302center=true&vCenter=true&width=435&lines=Hi!+My+name+is+Luiz!;Welcome." alt="Typing SVG" />
   </a>
 </div>
 
 Olá este é o meu perfil no GitHub👋
 
-- 🔭 Atualmente estou trabalhando de front-end
-- 🌱 No momento estou aprendendo javascript
+- 🔭 Atualmente estou trabalhando de back-end
+- 🌱 No momento estou trabalhando com PHP
 
 <div>
   <a href="https://github.com/Luiz-Felip-DEV">
@@ -27,18 +27,22 @@ Olá este é o meu perfil no GitHub👋
 
 ## Sobre mim
 
-⚡️ Tenho 19 anos, amo informática e programação, e estudo Ciência da Computação na UNITRI.
+⚡️ Tenho 20 anos, adoro informática e programação, e estudo Ciência da Computação na UNITRI.
 
 - 🌎 Sou de Uberlândia - Brasil
-- 🎬 Gosto de estudar e assistir séries/filmes
-- 💎 Amo personalizar tudo
 
 ## Estudando agora
 
+  💻 Laravel
+
+  ⚙️ Docker
+  
+  🛡️ Ajax
+  
+  🖊️ TypeScript
+  
 📝Conhecimento nunca é demais, são esses conteúdos que estou focado no momento.
 
-- ⚡️ React Native
+- ⚡️ PHP
 - 🐬 JavaScript
-- 🎲 Python
-- ⚔️ Programação Competitiva
-- ☕️ Java
+- 🎲 Banco de Dados
