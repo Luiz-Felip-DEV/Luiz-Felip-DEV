@@ -165,44 +165,6 @@ const luizFelipe = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Luiz-Felip-DEV&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Luiz-Felip-DEV&theme=radical&hide_border=true&bg_color=0D1117&title_color=8F0D87&layout=compact" alt="Wakatime Stats"/>
-</div>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-## 🎨 Projetos em Destaque
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Luiz-Felip-DEV&repo=seu-projeto-1&theme=radical&hide_border=true&bg_color=0D1117&title_color=8F0D87&icon_color=8F0D87)](https://github.com/Luiz-Felip-DEV/seu-projeto-1)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Luiz-Felip-DEV&repo=seu-projeto-2&theme=radical&hide_border=true&bg_color=0D1117&title_color=8F0D87&icon_color=8F0D87)](https://github.com/Luiz-Felip-DEV/seu-projeto-2)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Luiz-Felip-DEV/Luiz-Felip-DEV/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
 ## 📫 Vamos Conversar?
 
 <div align="center">
